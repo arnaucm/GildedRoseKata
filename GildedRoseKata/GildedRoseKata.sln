@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GildedRose.ASP_Estrucutrada
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GildedRose.ASP_OOP.WebUI", "GildedRose.ASP_OOP.WebUI\GildedRose.ASP_OOP.WebUI.csproj", "{0075F4C7-DED3-4CC8-86F1-B53C962B9A6B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GildedRose.CSharp.WebUI.UnitTest", "GildedRose.CSharp.WebUI.UnitTest\GildedRose.CSharp.WebUI.UnitTest.csproj", "{74866C82-F130-4BD7-86BA-D4F93749EA82}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{0075F4C7-DED3-4CC8-86F1-B53C962B9A6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0075F4C7-DED3-4CC8-86F1-B53C962B9A6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0075F4C7-DED3-4CC8-86F1-B53C962B9A6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74866C82-F130-4BD7-86BA-D4F93749EA82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74866C82-F130-4BD7-86BA-D4F93749EA82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74866C82-F130-4BD7-86BA-D4F93749EA82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74866C82-F130-4BD7-86BA-D4F93749EA82}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
